@@ -9,8 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emailjs/browser": "^4.3.3",
     "@heroicons/react": "latest",
     "autoprefixer": "latest",
+    "dotenv": "^16.4.5",
     "eslint": "latest",
     "eslint-config-next": "latest",
     "framer-motion": "latest",
