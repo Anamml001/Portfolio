@@ -22,7 +22,6 @@
     "react-animated-numbers": "latest",
     "react-dom": "latest",
     "react-type-animation": "latest",
-    "resend": "latest",
     "tailwindcss": "latest"
   }
 }
