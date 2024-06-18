@@ -16,7 +16,7 @@ const projectsData = [
   },
   {
     id: 2,
-    title: "Project Asociation mi sobrino Manuel",
+    title: "Project Association mi sobrino Manuel",
     description: "It is an association to contribute to the research of Dandy-Walker Syndrome, due to the RAC 1 gene mutation, and to know the story of Manuel, who lives with this disease.",
     image: "/images/projects/msm_portafolio.PNG",
     tag: ["All", "Web"],

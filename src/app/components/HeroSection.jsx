@@ -37,7 +37,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-          Desarrolladora Web Fullstack Junior 💻| HTML | CSS | JavaScript | MongoDB | React | Tailwind.css | Node.js | Express | Testing | Git 
+          Full Stack web developer Junior 💻| HTML | CSS | JavaScript | MongoDB | React | Tailwind.css | Node.js | Express | Testing | Git 
           </p>
           <div>
             <Link
