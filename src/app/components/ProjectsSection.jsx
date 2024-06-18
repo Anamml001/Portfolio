@@ -12,7 +12,7 @@ const projectsData = [
     image: "/images/projects/portada-portfolio.PNG",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Anamml001/portfolio",
-    previewUrl: "https://portfolio-rk1ex7gik-anamml001s-projects.vercel.app/#contact",
+    previewUrl: "https://portfolio-anamml001.vercel.app/",
   },
   {
     id: 2,
