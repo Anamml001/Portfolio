@@ -27,8 +27,8 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Fullstack Academy of Code</li>
-        <li>University of California, Santa Cruz</li>
+        <li>Bootcamp Full stack web development</li>
+        <li>Eurofirms Foundation Tech Academy</li>
       </ul>
     ),
   },
@@ -37,8 +37,8 @@ const TAB_DATA = [
     id: "certifications",
     content: (
       <ul className="list-disc pl-2">
-        <li>AWS Cloud Practitioner</li>
-        <li>Google Professional Cloud Developer</li>
+        <li>Certificate of Bootcamp Full Stack Developer</li>
+        <li>Web developer</li>
       </ul>
     ),
   },
