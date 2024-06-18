@@ -9,7 +9,7 @@ const projectsData = [
     id: 1,
     title: "React Portfolio Website",
     description: "Project Portfolio Ana María Moya Liébana",
-    image: "/images/projects/1.png",
+    image: "/images/projects/portada-portfolio.PNG",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Anamml001/portfolio",
     previewUrl: "https://portfolio-rk1ex7gik-anamml001s-projects.vercel.app/#contact",
